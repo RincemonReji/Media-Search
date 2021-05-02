@@ -32,10 +32,10 @@ I am a Movie/Series Inline File Finder.
 
 I have a Vast Collection of Movies & Series.Fell Free To Checkout Me 🥰.
 
-I was made by @NickxFury & @Sunisk.
+I was made by @filmsandtrends_owner
 
-A Bot From Movie Club Family.
+A Bot From F&T Family.
 """
 
-SHARE_BUTTON_TEXT = 'Hai Friend ❤️ Today i just found out an intresting bot 🥰 check it out Bot Link {username}'
+SHARE_BUTTON_TEXT = 'Support Group Link @films_and_trends_group'
 
