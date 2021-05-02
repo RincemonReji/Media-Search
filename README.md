@@ -58,6 +58,7 @@ Contributions are welcome.
 
 ### Support
 * Telegram Group [Group](https://telegram.dog/joinchat/R0JlHGyBknoL9UEH)
+* Editor - I am not developer. [Link](https://telegram.dog/filimsandtrends_owner)
 
 ### License
 Code released under [The GNU General Public License](LICENSE).
