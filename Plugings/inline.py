@@ -30,7 +30,7 @@ async def answer(bot, query):
             InlineQueryResultCachedDocument(
                 title=file.file_name,
                 file_id=file.file_id,
-                caption=file.caption or "📢: @MC_MovieBot",
+                caption=file.caption or "📢: @films_and_trends_group",
                 description=f'Size: {get_size(file.file_size)}\nType: {file.file_type}',
                 reply_markup=reply_markup))
 
@@ -61,7 +61,7 @@ def get_reply_markup(username):
     buttons = [[
         InlineKeyboardButton('Search again', switch_inline_query_current_chat=''),
         InlineKeyboardButton('Share bot', url=url),
-        InlineKeyboardButton('Request Movie', url="https://t.me/MOVIECLUB_CHAT"),
+        InlineKeyboardButton('Request Movie', url="https://t.me/films_and_trends_group"),
     ]]
     return InlineKeyboardMarkup(buttons)
 
